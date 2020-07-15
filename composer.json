@@ -1,0 +1,22 @@
+{
+  "name": "eurobertics/connfetti-ini",
+  "description": "A INI config file reader displaying the config in class hierarchy.",
+  "type": "library",
+  "minimum-stability": "stable",
+  "require": {
+    "php": "^7.3",
+    "eurobertics/connfetti-io": "*"
+  },
+  "autoload": {
+    "psr-4" : {
+      "Connfetti\\INI\\" : "src/"
+    }
+  },
+  "license":      "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name":  "Bernd Robertz",
+      "email": "brobertz.net@gmail.com"
+    }
+  ]
+}
