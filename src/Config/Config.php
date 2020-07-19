@@ -6,7 +6,7 @@ use Connfetti\IO\Reader\INIReader;
 
 class Config
 {
-    public static $VERSION = '0.1.1';
+    public static $VERSION = '0.1.2';
 
     private $cfgfile;
     private $cfgpath;
