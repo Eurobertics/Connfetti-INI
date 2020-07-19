@@ -1,5 +1,5 @@
 <?php
-function confetti_ini_autoloader($class) {
+function connfetti_ini_autoloader($class) {
 
     $basedir = __DIR__;
 
